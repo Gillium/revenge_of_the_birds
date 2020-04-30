@@ -34,7 +34,7 @@ namespace Project1
    
         Texture2D player;//this is the player image
      
-        Vector2 playerPos;//this is the player position in xy coordinates
+        Vector2 playerPos;//this is the player position in xy coordinates 
         Vector2 playerOrg;//this is the starting point of player
         
         Rectangle playerRect;
